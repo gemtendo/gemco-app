@@ -1,2 +1,3 @@
-# gemcocraft
-idk minecraft project
+# gemco-app
+#code not for reuse
+
